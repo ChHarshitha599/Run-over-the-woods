@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: 07e7b629610174c33b74601feb82f717
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Beard_Diffuse
+    second: {fileID: 2800000, guid: 417d7111940324f05a037d0cc2806f76, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Beard_Gloss
+    second: {fileID: 2800000, guid: 2ffa213d2489545e4ab25a75c2338673, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Beard_Normal
+    second: {fileID: 2800000, guid: d67c172ec16a34f65bc9fcdfa14ac8ac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Beard_Opacity
+    second: {fileID: 2800000, guid: ea90b4cde14274958afecb1d19c94bf1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Beard_Specular
+    second: {fileID: 2800000, guid: 8322d62d79df440c98c0422db623f5d5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Body_Diffuse
+    second: {fileID: 2800000, guid: a2c5bc9d172144212886595a72382165, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Body_Gloss
+    second: {fileID: 2800000, guid: fa748e1df4f7c449b9fb1a4c182e31cd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Body_Normal
+    second: {fileID: 2800000, guid: 9948705aebb6d473ea296343b4757794, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Body_Opacity
+    second: {fileID: 2800000, guid: ae3be6b9e93c74abcbca696982f946a2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Body_Specular
+    second: {fileID: 2800000, guid: ad0268e3474e34f6eb8c53cd5575cf07, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Bottom_Diffuse
+    second: {fileID: 2800000, guid: c34f79b6330ff4691a71f3bad4986e1b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Bottom_Gloss
+    second: {fileID: 2800000, guid: a4b0c8f9815c4438d8704175d4027537, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Bottom_Normal
+    second: {fileID: 2800000, guid: 178e5e344e2ee4d7ab59aa56fa3a0386, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Bottom_Opacity
+    second: {fileID: 2800000, guid: 55ae6c5253f3a478b852a743cf4eb37e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Bottom_Specular
+    second: {fileID: 2800000, guid: eddccd9bc0dcc4f89ac4e1afc2a6dc1b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Eyewear_Diffuse
+    second: {fileID: 2800000, guid: 4eb9ef2cc168c4ec9b8efa6137b4ec0d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Eyewear_Gloss
+    second: {fileID: 2800000, guid: 8b9e496f142214a19ae63ba04792c2c6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Eyewear_Normal
+    second: {fileID: 2800000, guid: 330644bc370c94c5582d61853e931734, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Eyewear_Opacity
+    second: {fileID: 2800000, guid: f75ee9aa330ab4f539ae621e2e431e32, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Eyewear_Specular
+    second: {fileID: 2800000, guid: 2eb2c5c1acb8e4dd3956c9ca002b51a2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Hair_Diffuse
+    second: {fileID: 2800000, guid: 59d61e65876f244dc8b3fd22c11019d8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Hair_Gloss
+    second: {fileID: 2800000, guid: 56fa1affc4bf34ee5bb9a96d6a475b8c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Hair_Normal
+    second: {fileID: 2800000, guid: a75c5929689164b0d927ecdf6be641d4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Hair_Opacity
+    second: {fileID: 2800000, guid: 798f56769ca054911970ed85aa371bee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Hair_Specular
+    second: {fileID: 2800000, guid: 81accb9545bfd4493b18e2fee51b3d2f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Hat_Diffuse
+    second: {fileID: 2800000, guid: 8293641c581d74579abdc7fbc7900f11, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Hat_Gloss
+    second: {fileID: 2800000, guid: 6e674c7d62a4d4fd18f59787db5e009a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Hat_Normal
+    second: {fileID: 2800000, guid: 1c60385332efe4d87a7c5370444d78c8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Hat_Opacity
+    second: {fileID: 2800000, guid: 5b07f401e23e8480b93308eafadf027a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Hat_Specular
+    second: {fileID: 2800000, guid: 5ed4897d0a5b04351bcfa582bbeb9ff8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Moustache_Diffuse
+    second: {fileID: 2800000, guid: 064112e77772b42d58ecf1f0223375f2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Moustache_Gloss
+    second: {fileID: 2800000, guid: 5c2653126c9e64346b6d61d265e9caab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Moustache_Normal
+    second: {fileID: 2800000, guid: 7e2c567b46cb846c5b0e156ff1e32582, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Moustache_Opacity
+    second: {fileID: 2800000, guid: a26eede17d9d146e18826bd09c1b3dff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Moustache_Specular
+    second: {fileID: 2800000, guid: 6d07d0e14db3844c5b96005d45ff2711, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Shoes_Diffuse
+    second: {fileID: 2800000, guid: e7fce8e280c294552be95f6dcae87123, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Shoes_Gloss
+    second: {fileID: 2800000, guid: c045478b2cfde4bdaa6c456a245e3516, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Shoes_Normal
+    second: {fileID: 2800000, guid: aaad294ef5d764368a20e9e1c8cb9f64, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Shoes_Opacity
+    second: {fileID: 2800000, guid: 8930d667beae64d24a40189d1d1d2e0c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Shoes_Specular
+    second: {fileID: 2800000, guid: a3023b061586a47e599b1cc5ca5d906b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Top_Diffuse
+    second: {fileID: 2800000, guid: 111c21707dd1845f6aefba2497f3971a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Top_Gloss
+    second: {fileID: 2800000, guid: 43f584c65510c4e29be6fb4d1e25593f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Top_Normal
+    second: {fileID: 2800000, guid: f1756f58eb6994eeba32856483ded7cb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Top_Opacity
+    second: {fileID: 2800000, guid: de2da7b6d3b8842159cb13277bc63fa0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: police_Top_Specular
+    second: {fileID: 2800000, guid: d621573b035d84873b0df807babeca96, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
